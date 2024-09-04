@@ -76,4 +76,4 @@ if st.button('Predict'):
     if prediction == 1:
         st.subheader('The model predicts that the person is likely to have diabetes.')
     else:
-        st.subheader('The model predicts that the person is unlikely to have diabetes.')
+        st.subheader('The model predicts that the person is ulikely to have diabetes.')
